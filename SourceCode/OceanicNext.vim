@@ -1,6 +1,7 @@
 " ===============================================================
 " OceanicNext
 " Author: Mike Hartington
+" https://github.com/mhartington/oceanic-next
 " ===============================================================
 
 " {{{ Setup
